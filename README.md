@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @darshansagarr
-- 👀 I’m interested in  software development, Electronics 
-- 🌱 I’m currently learning python ,Java, C++,
+- 👀 I’m interested in   Embedded susytems, IOT, PCB Design and software development.
+- 🌱 I’m currently learning C, C++, Python, HTML, CSS, Javascript,
 - 💞️ I’m looking to collaborate on ...
 - 📫 you can reach me  by darshansagarr@gmail.com
