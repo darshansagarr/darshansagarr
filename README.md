@@ -1,7 +1,7 @@
 <div align="center">
   
 # 💫 Hi, I'm Darshan  
-**A passionate developer from India**
+ **A passionate developer from India**
 
 </div>
 
