@@ -5,7 +5,7 @@
 
 </div>
 
-🌱 I’m currently learning System Design, IoT, Embedded Systems, Full-Stack Web Development, and AI for Edge Devices<br>👨‍💻 I’m currently working on:<br> • A React + TypeScript-based IoT Dashboard with real-time device data and modular architecture<br> • Smart Agriculture Systems using ESP32, sensors, and cloud integration<br> • Live Camera Streaming using RTSP and edge device monitoring<br> • AI-powered automation and decision-making at the edge<br>📑 Check out my resume here My Resume<br>💻 All of my projects are available on GitHub<br>💬 Ask me about IoT, ESP32, Embedded Systems, Full-Stack Web Development (React, TypeScript, Node.js), and Edge AI<br>📫 Reach out to me at darshansagarr@gmail.com
+🌱 I’m currently learning IoT, Embedded Systems, Full-Stack Web Development, and AI for Edge Devices<br>👨‍💻 I’m currently working on:<br> • A React + TypeScript-based IoT Dashboard with real-time device data and modular architecture<br> • Smart Agriculture Systems using ESP32, sensors, and cloud integration<br> • Live Camera Streaming using RTSP and edge device monitoring<br> • AI-powered automation and decision-making at the edge<br>📑 Check out my resume here My Resume<br>💻 All of my projects are available on GitHub<br>💬 Ask me about IoT, ESP32, Embedded Systems, Full-Stack Web Development (React, TypeScript, Node.js), and Edge AI<br>📫 Reach out to me at darshansagarr@gmail.com
 
 
 ## 🌐 Socials:
